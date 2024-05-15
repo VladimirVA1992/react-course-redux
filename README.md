@@ -1,4 +1,4 @@
-# Redux
+# Trening use Redux
 
 Use:
 
